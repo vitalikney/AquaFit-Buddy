@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+
+# Env / secrets
+.env
+bot_token.txt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
